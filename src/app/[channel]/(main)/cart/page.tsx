@@ -6,7 +6,7 @@ import { formatMoney, getHrefForVariant } from "@/lib/utils";
 import { LinkWithChannel } from "@/ui/atoms/LinkWithChannel";
 
 export const metadata = {
-	title: "Shopping Cart · Saleor Storefront example",
+	title: "WEB3.0 RWA Trading platform,
 };
 
 export default async function Page({ params }: { params: { channel: string } }) {
