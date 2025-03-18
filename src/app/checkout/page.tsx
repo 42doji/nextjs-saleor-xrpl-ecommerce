@@ -2,7 +2,7 @@ import { invariant } from "ts-invariant";
 import { RootWrapper } from "./pageWrapper";
 
 export const metadata = {
-	title: "Checkout · Log Legacy,
+	title: "Checkout · Log Legacy"
 };
 
 export default function CheckoutPage({

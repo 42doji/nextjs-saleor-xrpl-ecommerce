@@ -7,6 +7,8 @@ const companyName = "Log Legacy";
 
 export const Logo = () => {
 	const pathname = usePathname();
+	console.log("Current Pathname:", pathname);
+
 
 	if (pathname === "/") {
 		return (
